@@ -1,3 +1,7 @@
+/**
+ * @param Find_The_Median
+ */
+
 class MedianFinder {
   constructor() {
     this.data = [];
